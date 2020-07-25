@@ -1,0 +1,4 @@
+[Name: Sardine Quantity: 1000 Expires: 10-2018] [Name: Nuttela Expires: 10-2019 Quantity: 1000 ] [ Quantity: 200 Name: Tuna Expires: 3-2019] [  Expires: 7-2019    Name: KitKat   Quantity: 600   ]
+
+
+[Name: Sardine Quantity: 1000 Expires: 10-2018] [Name: Nuttela Expires: 10-2019 Quantity: 1000 ] [ Quantity: 200 Name: Tuna Expires: 3-2019] [  Expires: 7-2019    Name: KitKat   Quantity: 600   ]   

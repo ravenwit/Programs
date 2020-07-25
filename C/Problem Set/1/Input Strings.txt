@@ -1,0 +1,7 @@
+Shirt, 100, 15; jacket, 10, 20; jeans, 30, 400;   toothbrush, 30, 90;     tops,  50,    300;  Socks, 20, 300;
+
+Shirt, 100, 15; jacket, 10, 20; jeans, 30, 400;   toothbrush, 30, 90;     tops,  50,    300;  Socks, 20, 300;  
+
+Shirt, 100, 15; jacket, 10, 20; jeans, 30, 400;   toothbrush, 30, 90;
+
+Shirt, 100,   15;  jacket, 10, 20; jeans, 30, 400;   toothbrush, 30, 90; 

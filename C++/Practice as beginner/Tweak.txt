@@ -1,0 +1,20 @@
+CD-ROM Open
+CD-ROM Close
+Speak
+Increase or Decrease System Volume
+Mute or Unmute System Volume
+Volume between mute and normal state
+Turn off monitor
+Start the default screen saver
+Computer Stand By
+Log off
+Reboot
+Shutdown PC
+Start Calc
+Start notepad
+Hide or show clock on system tray
+disable or enable screensaver
+Clipboard
+empty recycle bin in all drive 
+Screenshot
+empty temp
